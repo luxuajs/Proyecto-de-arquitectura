@@ -1,5 +1,9 @@
 # Proyecto de Arquitectura
 
+## Integrantes:
+  ### Gabriel Silva 29803338
+  ### Juan Sanabria 30276906
+
 ## Memoria Cache
 
 En este proyecto de arquitectura, hemos desarrollado una simulación de una memoria caché. La simulación se basa en una configuración preestablecida, la cual se encuentra definida en el archivo "configuracion.txt". Al mismo tiempo, se utiliza un archivo de entrada, "entrada.txt", para realizar operaciones y evaluar el rendimiento de la memoria caché.
